@@ -11,4 +11,8 @@ The objective can be broken down into the following detailed components:
 
 4. Actionable Insights and Recommendations: End goal is to insights and actionable information that can drive strategic deci support the supermarket's goals for growth, efficiency, satisfaction
 
+   ****LEARNING***
+   -Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights and interactive dashboard creation, driving 
+    business success.
+
 
